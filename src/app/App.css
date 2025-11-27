@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+  --color-text-primary: #292424;
+  --color-text-secondary: #668099;
+  --color-text-muted: #9e9e9e;
+  --color-border: #cae0ed;
+  --color-border-light: #e0e0e0;
+  --color-background-hover: #f9f9f9;
+  --color-background-selected: #e3f2fd;
+  --color-background-panel: #f9f9f9;
+  --color-primary: #2196f3;
+  --color-accent: #f04259;
+  --color-white: #ffffff;
+}
